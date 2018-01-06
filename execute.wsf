@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <job>
-    <script language="JavaScript" src="libs/es5-shim.js"></script>
-    <script language="JavaScript" src="libs/es5-sham.js"></script>
-    <script language="JavaScript" src="libs/json3.js"></script>
+    <script language="JavaScript" src="lib/es5-shim.js"></script>
+    <script language="JavaScript" src="lib/es5-sham.js"></script>
+    <script language="JavaScript" src="lib/json3.js"></script>
     <script language="JavaScript">var global = this;</script>
-    <script language="JavaScript" src="libs/es6-shim.js"></script>
-    <script language="JavaScript" src="libs/es6-sham.js"></script>
-    <script language="JavaScript" src="libs/json5.js"></script>
-	<script language="JavaScript" src="libs/lodash.js"></script>
-	<script language="JavaScript" src="libs/js-yaml.js"></script>
+    <script language="JavaScript" src="lib/es6-shim.js"></script>
+    <script language="JavaScript" src="lib/es6-sham.js"></script>
+    <script language="JavaScript" src="lib/json5.js"></script>
+	<script language="JavaScript" src="lib/lodash.js"></script>
+	<script language="JavaScript" src="lib/js-yaml.js"></script>
 	<script language="JavaScript" src="main.js"></script>
 </job>
